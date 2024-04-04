@@ -1,0 +1,23 @@
+{
+  "name": "viewcontrollertest-pakeric",
+  "version": "1.0.0",
+  "description": "viewcontrollertest",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pakeric/swiftui_viewcontroller.git"
+  },
+  "dependencies": {
+    "lodash": "*",
+    "xwz-web3-001": "*",
+    "swiftui-ricky": "*",
+    "xwz-lovelyday": "*",
+    "xmtuanzi-npm-math": "*",
+  }
+}
